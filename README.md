@@ -47,22 +47,6 @@
 
 ---
 
-### 📂 Featured Projects
-<p align="center">
-  
-  <a href="https://github.com/SMIT9604/ReClaimIt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SMIT9604&repo=ReClaimIt&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/SMIT9604/Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SMIT9604&repo=Portfolio-Website&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/SMIT9604/SomeOtherProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SMIT9604&repo=SomeOtherProject&theme=tokyonight&hide_border=true" />
-  </a>
-
-</p>
 
 👉 *Click on cards to explore repositories*  
 
@@ -79,12 +63,6 @@
 
 ---
 
-### 🐍 Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SMIT9604&style=for-the-badge&color=blue" alt="profile views" />
