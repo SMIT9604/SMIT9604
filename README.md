@@ -1,7 +1,7 @@
 <!-- Special GitHub Profile README for Smit Patel -->
 
 <h1 align="center">Hi 👋, I'm Smit Patel</h1>
-<h3 align="center">Full Stack Developer • Problem Solver • Lifelong Learner</h3>
+<h3 align="center"> Aspiring Full Stack Developer • Problem Solver • Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=800&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+care+and+craft;Learning+daily%2C+shipping+often;Open+to+collabs+%26+new+opportunities" />
