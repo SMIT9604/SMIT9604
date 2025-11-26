@@ -47,6 +47,20 @@
 
 ---
 
+### ​ GitHub Activity
+<!-- Stats -->
+![](https://github-readme-stats.vercel.app/api?username=SMIT9604&show_icons=true&theme=radical)
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMIT9604&layout=compact&theme=radical)
+
+<!-- Contribution Streak (working endpoint) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SMIT9604&theme=radical)](https://git.io/streak-stats)
+
+<!-- Summary Card (in place of trophies) -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMIT9604&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 👉 *Click on cards to explore repositories*  
 
