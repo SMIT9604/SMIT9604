@@ -9,16 +9,10 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/SMIT9604">
-    <img src="https://img.shields.io/badge/GitHub-SMIT9604-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/smit_9604?igsh=MW0yMG9tbTV3NGZiNw==">
-    <img src="https://img.shields.io/badge/Instagram-@smit__9604-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/smit-patel-49262636a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/smit_9604)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smpatel9604@gmail.com)
 ---
 
 ### 🙋‍♂️ About Me
