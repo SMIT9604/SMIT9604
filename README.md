@@ -62,7 +62,7 @@
 
 
 
-👉 *Click on cards to explore repositories*  
+
 
 ---
 
