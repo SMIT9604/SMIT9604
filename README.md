@@ -47,8 +47,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SMIT9604&theme=radical)](https://git.io/streak-stats)
 
 <!-- Summary Card (in place of trophies) -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMIT9604&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMIT9604&theme=vue)]
 
 
 
